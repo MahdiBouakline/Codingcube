@@ -1,3 +1,4 @@
+background-color: yellow
 <h1> Codingcube
 
 # I have the Pyraminx duo. I am very able to solve it and I use the intermediate method.
